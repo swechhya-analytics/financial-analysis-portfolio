@@ -1,0 +1,37 @@
+# Apple Inc. – Income Statement Analysis (2022–2024)
+## Gross Profit & Gross Margin Analysis 
+
+Apple’s gross profit remained resilient over the three-year period,
+declining slightly from $170.8 billion in 2022 to $169.1 billion in 2023,
+before rising strongly to $180.7 billion in 2024, the highest level in the period.
+
+Gross margin expanded consistently from 43% in 2022 to 44% in 2023
+and further to 46% in 2024. This upward trend indicates improving profitability,
+driven by a favorable product and services mix, strong pricing power,
+and effective cost management.
+
+Overall, the combination of rising gross profit and expanding margins
+highlights Apple’s ability to enhance profitability despite macroeconomic
+and demand-related fluctuations.
+
+
+
+## Operating Expenses & Operating Margin Analysis (2022–2024)
+
+Apple’s total operating expenses increased steadily from $51.3 billion in 2022
+to $57.5 billion in 2024, primarily driven by higher research and development spending.
+R&D grew consistently over the period, highlighting Apple’s continued investment
+in innovation, product development, and long-term growth initiatives.
+
+Selling, general and administrative expenses remained relatively stable,
+demonstrating strong cost discipline despite the company’s global scale
+and expanding operations.
+
+Operating income declined modestly in 2023 but rebounded strongly in 2024,
+reaching $123.2 billion. Operating margin improved to 31.5% in 2024,
+surpassing prior-year levels and indicating enhanced operational efficiency
+and a favorable revenue mix.
+
+Overall, the three-year trend suggests that Apple is successfully balancing
+increased investment in innovation with effective cost management,
+resulting in resilient and improving operating profitability.
