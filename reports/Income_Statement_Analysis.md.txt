@@ -51,3 +51,9 @@ through dividends and share buybacks while maintaining balance sheet flexibility
 Overall, Apple’s cash flow profile reflects a financially resilient business model with sustainable liquidity and disciplined capital management.
 
 Source: Apple Form 10-K, Consolidated Statements of Cash Flows
+
+OVERALL CASH FLOW SUMMARY 
+Apple demonstrates a strong and resilient cash flow profile over the 2022–2024 period. Despite a modest decline in net income, operating cash flow consistently exceeds reported earnings, indicating high-quality profits and efficient cash conversion. The company adjusted its investing activity in response to changing economic conditions while maintaining disciplined capital allocation. Strongly negative financing cash flow reflects Apple’s continued emphasis on shareholder returns through dividends and share repurchases. Overall, Apple’s cash flow structure highlights a mature, cash-generative business with sustainable liquidity and prudent financial management.
+
+Net Change in Cash
+Apple’s net change in cash over the 2022–2024 period reflects disciplined capital management rather than operational weakness. Strong operating cash flow consistently funded investments and shareholder returns, with cash balances remaining relatively stable. Variations in net cash movement were primarily driven by changes in investing activity and the scale of share repurchases, highlighting Apple’s flexibility in allocating excess cash.
