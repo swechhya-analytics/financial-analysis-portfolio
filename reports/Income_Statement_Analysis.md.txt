@@ -35,3 +35,18 @@ and a favorable revenue mix.
 Overall, the three-year trend suggests that Apple is successfully balancing
 increased investment in innovation with effective cost management,
 resulting in resilient and improving operating profitability.
+
+Source: Apple Form 10-K, Consolidated Statements of Operations
+
+
+##Cash Flow Analysis Summary (Apple Inc.)
+
+Apple’s operating cash flow consistently exceeds its net income over the 2022–2024 period, 
+indicating strong earnings quality and efficient cash conversion from its core operations. 
+This gap is primarily driven by non-cash expenses such as depreciation and stock-based compensation,
+as well as favorable working capital dynamics where Apple collects cash from customers faster than it pays suppliers. 
+the company’s ability to generate substantial operating cash flow supports shareholder returns
+through dividends and share buybacks while maintaining balance sheet flexibility and low reliance on external financing. 
+Overall, Apple’s cash flow profile reflects a financially resilient business model with sustainable liquidity and disciplined capital management.
+
+Source: Apple Form 10-K, Consolidated Statements of Cash Flows
