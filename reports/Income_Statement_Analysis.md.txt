@@ -52,8 +52,67 @@ Overall, Apple’s cash flow profile reflects a financially resilient business m
 
 Source: Apple Form 10-K, Consolidated Statements of Cash Flows
 
-OVERALL CASH FLOW SUMMARY 
+##OVERALL CASH FLOW SUMMARY 
 Apple demonstrates a strong and resilient cash flow profile over the 2022–2024 period. Despite a modest decline in net income, operating cash flow consistently exceeds reported earnings, indicating high-quality profits and efficient cash conversion. The company adjusted its investing activity in response to changing economic conditions while maintaining disciplined capital allocation. Strongly negative financing cash flow reflects Apple’s continued emphasis on shareholder returns through dividends and share repurchases. Overall, Apple’s cash flow structure highlights a mature, cash-generative business with sustainable liquidity and prudent financial management.
 
-Net Change in Cash
+##Net Change in Cash
 Apple’s net change in cash over the 2022–2024 period reflects disciplined capital management rather than operational weakness. Strong operating cash flow consistently funded investments and shareholder returns, with cash balances remaining relatively stable. Variations in net cash movement were primarily driven by changes in investing activity and the scale of share repurchases, highlighting Apple’s flexibility in allocating excess cash.
+
+##FREE CASH FLOW INSIGHT
+Apple generated strong free cash flow throughout the 2022–2024 period,
+reflecting robust operating cash generation and disciplined capital spending.
+Free cash flow remained consistently high, enabling Apple to fund dividends,
+share repurchases, and strategic investments without reliance on external financing.
+The stability of free cash flow highlights the durability of Apple’s business model
+and its strong cash conversion efficiency.
+
+Source: Apple Form 10-K, Consolidated Statements of Cash Flows
+
+
+##BALANCE SHEET INSIGHT
+## Liquidity Overview
+
+Apple maintains a strong liquidity position, supported by substantial cash
+and marketable securities. The company’s total current assets comfortably
+cover its current liabilities, indicating a low short-term liquidity risk.
+This liquidity strength provides Apple with financial flexibility to support
+operations, absorb economic shocks, and continue returning capital to shareholders.
+
+##Liabilities
+Apple’s balance sheet distinguishes between current and long-term debt,
+reflecting the timing of repayment obligations. Current debt represents
+amounts due within one year, while long-term debt reflects Apple’s strategic
+use of longer-term financing. Despite carrying debt across both categories,
+Apple’s strong operating and free cash flow generation indicates a low
+liquidity and refinancing risk.
+
+
+##DEBT & LEVERAGE INSIGHT
+
+## Debt and Leverage Analysis
+
+Apple carries both short-term and long-term debt as part of its capital
+structure strategy rather than due to financial distress. Despite having
+significant liabilities, Apple’s strong operating and free cash flow
+generation supports its debt obligations comfortably. The company’s use
+of long-term debt is largely driven by capital optimization and shareholder
+return strategies, including share repurchases. Overall, Apple’s leverage
+profile reflects disciplined financial management with low credit and
+liquidity risk.
+
+
+##SHAREHOLDERS’ EQUITY INSIGHT
+
+## Shareholders’ Equity Analysis
+
+Apple’s shareholders’ equity reflects the company’s long-term capital return
+strategy rather than financial weakness. Extensive share repurchase programs
+have significantly reduced equity over time as excess cash has been returned
+to shareholders. Despite low reported equity levels, Apple’s strong operating
+and free cash flow generation supports its obligations and ongoing operations.
+This capital structure highlights Apple’s mature, cash-generative business
+model and disciplined approach to shareholder value creation.
+
+Source: Apple Form 10-K, Consolidated Balance Sheet
+
+
