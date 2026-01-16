@@ -22,3 +22,8 @@ Markdown & Jupyter Notebooks – structured reporting and reproducible analysis
 
 The objective of this project is to develop a clear, analyst-style understanding of Apple Inc.’s financial performance, business model, and long-term sustainability, while building a professional, portfolio-ready financial analysis project that demonstrates practical analytical skills relevant to academic admissions and entry-level analyst roles.
 
+## Key Visuals
+
+### Gross Margin vs Operating Margin (2022–2024)
+![Margin trends](visuals/margin_trends.png)
+
