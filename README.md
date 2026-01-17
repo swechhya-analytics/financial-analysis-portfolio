@@ -30,3 +30,7 @@ The objective of this project is to develop a clear, analyst-style understanding
 ### Net Income vs Operating Cash Flow (2022–2024)
 
 ![Net Income vs Operating Cash Flow](visuals/net_income_vs_operating_cash_flow.png)
+
+### Free Cash Flow Trend (2022–2024)
+
+![Free Cash Flow Trend](visuals/free_cash_flow_trend.png) 
