@@ -34,3 +34,11 @@ The objective of this project is to develop a clear, analyst-style understanding
 ### Free Cash Flow Trend (2022–2024)
 
 ![Free Cash Flow Trend](visuals/free_cash_flow_trend.png) 
+
+## Key Takeaways
+
+- Apple maintains strong and resilient profitability, with consistently high gross and operating margins, reflecting pricing power, brand strength, and effective cost control.
+- Operating cash flow consistently exceeds net income, indicating high-quality earnings and efficient conversion of accounting profits into real cash.
+- Apple generates substantial free cash flow even after capital expenditures, enabling sustained shareholder returns through dividends and share repurchases.
+- The company’s balance sheet reflects deliberate capital allocation decisions rather than financial weakness, with stable liquidity, manageable debt, and reduced shareholders’ equity driven by aggressive buybacks.
+- Overall, Apple demonstrates a mature, cash-generative business model with disciplined financial management and strong long-term sustainability.
