@@ -27,3 +27,6 @@ The objective of this project is to develop a clear, analyst-style understanding
 ### Gross Margin vs Operating Margin (2022–2024)
 ![Margin trends](visuals/margin_trends.png)
 
+### Net Income vs Operating Cash Flow (2022–2024)
+
+![Net Income vs Operating Cash Flow](visuals/net_income_vs_operating_cash_flow.png)
