@@ -1,3 +1,4 @@
+python
 #Project Objective
 
 This project aims to conduct a structured financial and business analysis of Apple Inc. using publicly available financial statements. The analysis follows the practical workflow of a financial, business, and data analyst by evaluating Apple’s income statement, balance sheet, and cash flow statement to assess profitability, financial stability, cash generation, and capital allocation decisions.
@@ -9,14 +10,6 @@ The project is designed as a hands-on analytical exercise using real company dat
 Google Sheets – financial statement modeling, calculations, and ratio analysis
 
 GitHub – version control, documentation, and project organization
-
-Public Financial Filings (Form 10-K) – primary data source
-
-Python (Pandas, NumPy) – data handling and analytical workflows
-
-Data Visualization Tools (Matplotlib / Seaborn / Tableau) – financial trend analysis and visual storytelling
-
-Markdown & Jupyter Notebooks – structured reporting and reproducible analysis
 
 # Expected Outcome
 
