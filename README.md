@@ -14,7 +14,7 @@ GitHub – version control, documentation, and project organization
 
 Public Financial Filings (Apple Form 10-K, 2022–2024) – primary data source for Apple’s financial statement analysis
 
-# Expected Outcome
+# Project Summary
 
 The objective of this project is to develop a clear, analyst-style understanding of Apple Inc.’s financial performance, business model, and long-term sustainability, while building a professional, portfolio-ready financial analysis project that demonstrates practical analytical skills relevant to academic admissions and entry-level analyst roles.
 
