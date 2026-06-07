@@ -1,4 +1,4 @@
-python
+
 # Project Objective
 
 This project conducts a structured financial and business analysis of Apple Inc. using publicly available financial statements from the company’s Form 10-K filings. The analysis follows a practical finance and business analytics workflow by reviewing Apple’s income statement, balance sheet, and cash flow statement to evaluate profitability, financial stability, cash generation, free cash flow, and capital allocation decisions.
