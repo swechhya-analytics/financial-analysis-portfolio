@@ -5,11 +5,13 @@ This project aims to conduct a structured financial and business analysis of App
 
 The project is designed as a hands-on analytical exercise using real company data to strengthen financial statement interpretation, analytical thinking, and data organization skills. Financial data is sourced directly from Apple Inc.’s Form 10-K filings, structured and analyzed using analytical tools, and documented in a clear, reproducible format suitable for professional and academic review.
 
- #Tools & Technologies Used
+# Tools & Technologies Used
 
 Google Sheets – financial statement modeling, calculations, and ratio analysis
 
 GitHub – version control, documentation, and project organization
+
+Public Financial Filings (Apple Form 10-K, 2022–2024) – primary data source for Apple’s financial statement analysis
 
 # Expected Outcome
 
