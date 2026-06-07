@@ -1,5 +1,5 @@
 python
-#Project Objective
+# Project Objective
 
 This project aims to conduct a structured financial and business analysis of Apple Inc. using publicly available financial statements. The analysis follows the practical workflow of a financial, business, and data analyst by evaluating Apple’s income statement, balance sheet, and cash flow statement to assess profitability, financial stability, cash generation, and capital allocation decisions.
 
