@@ -16,7 +16,7 @@ Public Financial Filings (Apple Form 10-K, 2022–2024) – primary data source 
 
 # Project Summary
 
-The objective of this project is to develop a clear, analyst-style understanding of Apple Inc.’s financial performance, business model, and long-term sustainability, while building a professional, portfolio-ready financial analysis project that demonstrates practical analytical skills relevant to academic admissions and entry-level analyst roles.
+This project delivers an analyst-style evaluation of Apple Inc.'s financial performance across 2022–2024, based on publicly available Form 10-K filings. The analysis covers profitability trends, cash flow quality, free cash flow generation, and capital allocation decisions. Findings are presented through structured visuals and written commentary, demonstrating practical financial statement analysis skills relevant to academic and entry-level analyst contexts.
 
 ## Key Visuals
 
